@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Slvkel 🙂</h1>
-<h4 align="center">I'm a 31 years old based in Spain. <br> I like to explore new technologies and develop software solutions. <br> I love surfing and programming on the shore of the beach.<br> I enjoy learning and designing solutions to current problems.</h4>
+<h4 align="center">I'm a 33 years old based in Spain. <br> I like to explore new technologies and develop software solutions. <br> I love surfing and programming on the shore of the beach.<br> I enjoy learning and designing solutions to current problems.</h4>
 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
@@ -82,6 +82,5 @@
   <h2 align="center"> And more... <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;</h2>
 
 <div align="center">
-  <h2 align="center">📧 Contact me: alvaro144@correo.ugr.es</h2>
   
 </div>
